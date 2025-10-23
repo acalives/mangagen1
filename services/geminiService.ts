@@ -11,7 +11,7 @@ import { Story, PlotNode, Character } from '../types';
 // For detailed instructions, see the LOCAL_DEVELOPMENT.md file.
 //
 // ===================================================================================
-const API_KEY = "Insert_Your_API_Key_Here";
+const API_KEY = "PASTE_YOUR_API_KEY_HERE"";
 
 
 // --- Do not edit below this line ---
