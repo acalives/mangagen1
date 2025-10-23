@@ -1,0 +1,5 @@
+
+{
+  "name": "Manga-Gen: AI Manga Creator",
+  "description": "A web application that uses generative AI to create a complete manga from a single story prompt. It handles narrative generation, character consistency, panel creation, and page assembly, with options for post-generation editing."
+}
